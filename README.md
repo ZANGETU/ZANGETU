@@ -7,12 +7,11 @@
   "gender": "Male",
   "country": "Japan",
   "hobbies": [
-    "Minecraft",
+    "Maincraft",
     "Genshin",
     "Programming"
   ],
   "fav_lang": ["C#", "Python"],
-　"fav_anime": "Mobile Suit Gundam UC",
+  "fav_anime": "`Mobile Suit Gundam UC`",
   "message": "I enjoy programming in my free time."
 }
-
