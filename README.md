@@ -3,12 +3,15 @@
 ```json
 {
   "name": "YURIRI",
-  "age": 20,
+  "age": "18-25",
   "gender": "Male",
+  "country": "Japan",
   "hobbies": [
-    "Gaming",
+    "Maincraft",
+    "Genshin",
     "Programming"
   ],
+  "fav_lang": ["C#", "Python"],
   "message": "Nice to meet you"
 }
 
