@@ -12,6 +12,6 @@
     "Programming"
   ],
   "fav_lang": ["C#", "Python"],
-  "message": "Nice to meet you"
+  "message": "I enjoy programming in my free time."
 }
 
