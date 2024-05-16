@@ -12,6 +12,6 @@
     "Programming"
   ],
   "fav_lang": ["C#", "Python"],
-  "fav_anime": "`Mobile Suit Gundam UC`",
+  "fav_anime": ["Mobile Suit Gundam UC", "Tokyo Ghoul"]
   "message": "I enjoy programming in my free time."
 }
