@@ -7,7 +7,7 @@
   "gender": "Male",
   "country": "Japan",
   "hobbies": [
-    "Maincraft",
+    "Minecraft",
     "Genshin",
     "Programming"
   ],
