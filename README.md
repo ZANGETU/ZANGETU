@@ -3,7 +3,7 @@
 ```json
 {
   "name": "YURIRI",
-  "age": "18-25",
+  "age": null,
   "gender": "Male",
   "country": "Japan",
   "hobbies": [
@@ -12,6 +12,7 @@
     "Programming"
   ],
   "fav_lang": ["C#", "Python"],
+　"fav_anime": "Mobile Suit Gundam UC",
   "message": "I enjoy programming in my free time."
 }
 
