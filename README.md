@@ -3,7 +3,7 @@
 ```json
 {
   "name": "YURIRI",
-  "age": null,
+  "age": Null,
   "gender": "Male",
   "country": "Japan",
   "games": [
