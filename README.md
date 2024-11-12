@@ -6,12 +6,12 @@
   "age": null,
   "gender": "Male",
   "country": "Japan",
-  "hobbies": [
+  "games": [
     "Minecraft",
-    "Genshin",
-    "Programming",
-    "Listening to music"
+    "GTA5",
+    "Cyberpunk2077",
+    "Forza Horizon5"
   ],
   "fav_lang": ["C#", "Python"],
-  "fav_anime": ["Mobile Suit Gundam UC", "Tokyo Ghoul"]
+  "fav_anime": ["Mobile Suit Gundam UC", "Dark Gathering"]
 }
