@@ -1,4 +1,4 @@
-# Hi there, I'm YURIRI! 👋
+# Hi there, I'm YURIRI  👋
 
 ```json
 {
