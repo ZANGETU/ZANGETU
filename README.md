@@ -6,7 +6,7 @@
   "age": null,
   "gender": "Male",
   "country": "Japan",
-  "games": [
+  "fav_game": [
     "Minecraft",
     "GTA5",
     "Cyberpunk2077",
