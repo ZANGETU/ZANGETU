@@ -13,5 +13,5 @@
     "Forza Horizon5"
   ],
   "fav_lang": ["C#", "Python"],
-  "fav_anime": ["Mobile Suit Gundam UC", "Dark Gathering"]
+  "fav_anime": ["Mobile Suit Gundam UC", "Dr.STONE"]
 }
