@@ -27,7 +27,5 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 
 <h2>Connect with me:</h2>
-<p align="left">
-<a href="https://www.youtube.com/c/fwfew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fwfew" height="30" width="40" /></a>
-<a href="https://discord.gg/ewfwef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ewfwef" height="30" width="40" /></a>
+<a href="https://discord.gg/ewfwef" target="blank"><img align="center" src="https://discord.gg/GvqHf9V6HX" alt="ewfwef" height="30" width="40" /></a>
 </p>
