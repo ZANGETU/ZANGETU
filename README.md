@@ -1,7 +1,7 @@
 # Hi there, I'm YURIRI  👋
 
 <p>I'm someone who programs according to my mood of the day. </p>
-<p>The one below is a little self explanatory...</p>
+<p>Brief self-introduction↓</p>
 
 ```json
 {
