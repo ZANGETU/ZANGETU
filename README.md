@@ -11,7 +11,7 @@
   "country": "Japan",
   "fav_game": [
     "Minecraft",
-    "GTA5",
+    "Wuthering Waves",
     "Cyberpunk2077",
     "Forza Horizon5"
   ],
