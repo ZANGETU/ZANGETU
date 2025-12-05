@@ -1,6 +1,5 @@
 # Hi there, I'm YURIRI  👋
 
-<p>the one who sleeps all day 💤</p>
 <p>Brief self-introduction↓</p>
 
 ```json
